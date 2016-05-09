@@ -15,7 +15,11 @@ import fresh_tomatoes
 
 Captain_america = media.Movie("Captain America",
                         "&#9733 &#9733 &#9733 &#9733",
+<<<<<<< HEAD
                         "http://ia.media-imdb.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+=======
+                        "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+>>>>>>> refs/remotes/origin/master
                         "https://www.youtube.com/watch?v=1L3c17AmCZw")
 
 interstellar = media.Movie("Interstellar",
@@ -25,7 +29,11 @@ interstellar = media.Movie("Interstellar",
 
 batman = media.Movie("Batman Vs Superman",
                      "&#9733 &#9733 ",
+<<<<<<< HEAD
                      "http://ia.media-imdb.com/images/M/MV5BNTE5NzU3MTYzOF5BMl5BanBnXkFtZTgwNTM5NjQxODE@._V1_.jpg",
+=======
+                     "https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg",
+>>>>>>> refs/remotes/origin/master
                      "https://www.youtube.com/watch?v=eX_iASz1Si8")
 
 rio_2 = media.Movie("Rio 2",
